@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Sh!tty App</string>
+
+    <string name="hello_world">Shenanigans!</string>
+    <string name="action_settings">Settings</string>
+    <string name="to">To</string>
+    <string name="mybutton_text">Button one</string>
+    <string name="counterbutton_text">Button two</string>
+    <string name="sendbutton_text">Add</string>
+
+
+</resources>
